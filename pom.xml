@@ -65,7 +65,7 @@
 		            <resourceGroup>demo-1738420962862-rg</resourceGroup>
 		            <appName>demo-1738420962862</appName>
 		            <pricingTier>F1</pricingTier>
-		            <region>centralus</region>
+		            <region>centralindia</region>
 		            <runtime>
 		                <os>Windows</os>
 		                <javaVersion>Java 17</javaVersion>
