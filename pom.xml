@@ -57,6 +57,18 @@
 		       <groupId>com.microsoft.azure</groupId>
 
                <artifactId>azure-webapp-maven-plugin</artifactId>
+               <version>2.13.0</version>
+               <configuration>
+
+            <subscriptionId>Azure for Students Starter</subscriptionId>
+
+            <resourceGroup>MyResourceGroup</resourceGroup>
+
+            <appName>demo-1738500049943</appName>
+
+            <region>Central India</region>
+
+            </configuration>
                
 		</plugin>
 		<!--	<plugin>
