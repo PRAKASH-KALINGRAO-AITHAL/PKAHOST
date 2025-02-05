@@ -60,7 +60,7 @@
                <version>2.13.0</version>
                <configuration>
 
-            <subscriptionId>Azure for Students Starter</subscriptionId>
+            <subscriptionId>0f6afb12-5eac-47f3-9bae-a88d115327b3</subscriptionId>
 
             <resourceGroup>MyResourceGroup</resourceGroup>
 
